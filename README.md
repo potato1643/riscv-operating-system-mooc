@@ -60,3 +60,6 @@ The design of this course refers to the following network resources, thank you :
 - The Adventures of OS：<https://osblog.stephenmarz.com/index.html>
 - mini-riscv-os: <https://github.com/cccriscv/mini-riscv-os>
 - Xv6, a simple Unix-like teaching operating system：<https://pdos.csail.mit.edu/6.828/2020/xv6.html>
+
+# 5. Video
+https://www.bilibili.com/video/BV1Q5411w7z5?spm_id_from=333.999.0.0
